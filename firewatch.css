@@ -24,9 +24,11 @@ body {
 .custom-debug-custom-css {
 	background: var(--theme-bg-color) !important;
 	backdrop-filter: blur(var(--theme-blur));
+	-webkit-backdrop-filter: blur(var(--theme-blur));
 }
 
 .custom-debug-center button {
 	background: var(--theme-bg-color) !important;
 	backdrop-filter: blur(var(--theme-blur));
+	-webkit-backdrop-filter: blur(var(--theme-blur));
 }
