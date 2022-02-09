@@ -1,5 +1,5 @@
 :root {
-	--bg-url: url("./bg.svg");
+	--bg-url: url("https://raw.githubusercontent.com/Capure/timetable-themes/main/bg/star.svg");
 	--theme-bg-color: rgba(106, 101, 116, 0.24);
 	--theme-blur: 2px;
 }
