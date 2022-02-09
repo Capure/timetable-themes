@@ -1,0 +1,32 @@
+:root {
+	--bg-url: url("./bg.svg");
+	--theme-bg-color: rgba(106, 101, 116, 0.24);
+	--theme-blur: 2px;
+}
+html,
+body {
+  background-image:  var(--bg-url) !important;
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.custom-router-body {
+	background: transparent !important;
+}
+
+.custom-home-lesson-main,
+.custom-footer-main,
+.custom-settings-colorpicker-main,
+.custom-settings-option-main,
+.custom-debug-info,
+.custom-debug-btn,
+.custom-debug-custom-css {
+	background: var(--theme-bg-color) !important;
+	backdrop-filter: blur(var(--theme-blur));
+}
+
+.custom-debug-center button {
+	background: var(--theme-bg-color) !important;
+	backdrop-filter: blur(var(--theme-blur));
+}
