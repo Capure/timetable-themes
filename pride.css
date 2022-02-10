@@ -1,0 +1,8 @@
+@import url("https://capure.github.io/timetable-themes/core.css");
+
+:root {
+	--bg-url: linear-gradient(#0004, #0004), url("https://raw.githubusercontent.com/Capure/timetable-themes/main/bg/pride.png");
+	--theme-bg-color: rgba(144, 100, 176, 0.664);
+	--theme-blur: 2px;
+	--theme-active-lesson-color: rgba(255, 0, 234, 0.664);
+}
