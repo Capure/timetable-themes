@@ -1,34 +1,8 @@
+@import url("https://capure.github.io/timetable-themes/core.css");
+
 :root {
 	--bg-url:  linear-gradient(#0004, #0004), url("https://raw.githubusercontent.com/Capure/timetable-themes/main/bg/firewatch.jpeg");
 	--theme-bg-color: rgba(122, 113, 96, 0.3);
 	--theme-blur: 8px;
-}
-html,
-body {
-  background-image:  var(--bg-url) !important;
-	background-position: center;
-	background-size: cover;
-	background-repeat: no-repeat;
-}
-
-.custom-router-body {
-	background: transparent !important;
-}
-
-.custom-home-lesson-main,
-.custom-footer-main,
-.custom-settings-colorpicker-main,
-.custom-settings-option-main,
-.custom-debug-info,
-.custom-debug-btn,
-.custom-debug-custom-css {
-	background: var(--theme-bg-color) !important;
-	backdrop-filter: blur(var(--theme-blur));
-	-webkit-backdrop-filter: blur(var(--theme-blur));
-}
-
-.custom-debug-center button {
-	background: var(--theme-bg-color) !important;
-	backdrop-filter: blur(var(--theme-blur));
-	-webkit-backdrop-filter: blur(var(--theme-blur));
+	--theme-active-lesson-color: rgba(177, 64, 12, 0.3);
 }
