@@ -2,7 +2,7 @@
 
 :root {
 	--bg-url: linear-gradient(#0004, #0004), url("https://raw.githubusercontent.com/luke2k04/timetable-themes/main/bg/pride2.png");
-	--theme-bg-color: rgba(124, 124, 124, 0.664);
+	--theme-bg-color: rgba(0, 0, 0, 0.3);
 	--theme-blur: 6px;
-	--theme-active-lesson-color: rgba(124, 124, 124, 0.664);
+	--theme-active-lesson-color: rgba(0, 0, 0, 0.3);
 }
