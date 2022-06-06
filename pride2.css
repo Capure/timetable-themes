@@ -1,0 +1,8 @@
+@import url("https://luke2k04.github.io/timetable-themes/core.css");
+
+:root {
+	--bg-url: linear-gradient(#0004, #0004), url("https://raw.githubusercontent.com/luke2k04/timetable-themes/main/bg/pride2.png");
+	--theme-bg-color: rgba(0, 0, 0, 0.3);
+	--theme-blur: 6px;
+	--theme-active-lesson-color: rgba(0, 0, 0, 0.3);
+}
