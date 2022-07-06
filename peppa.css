@@ -1,0 +1,13 @@
+@import url("https://capure.github.io/timetable-themes/core.css");
+
+:root {
+  --bg-url: linear-gradient(#0004, #0004),
+    url("https://raw.githubusercontent.com/Capure/timetable-themes/main/bg/peppa.png");
+  --theme-bg-color: #209aa5a9;
+  --theme-blur: 2px;
+  --theme-active-lesson-color: rgba(255, 0, 140, 0.664);
+}
+
+.custom-footer-main {
+  background: #a9343c7a !important;
+}

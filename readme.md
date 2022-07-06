@@ -29,3 +29,25 @@ Paste this into the custom css field and click the set button:
 ### Pride
 
 ![](https://capure.github.io/timetable-themes/screenshots/pride.png)
+
+#
+
+### Pride 2
+
+![](https://capure.github.io/timetable-themes/screenshots/pride2.png)
+
+#
+
+### Peppa
+
+#### Recommended settings
+
+- Main #64A599
+
+- Sec #379DA1
+
+- Accent #AF4D53
+
+- Font #FFFFFF
+
+![](https://capure.github.io/timetable-themes/screenshots/peppa.png)
