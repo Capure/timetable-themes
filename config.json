@@ -1,0 +1,34 @@
+{
+  "themes": [
+    {
+      "name": "Firewatch",
+      "author": "Capure",
+      "url": "https://raw.githubusercontent.com/Capure/timetable-themes/main/firewatch.css",
+      "screenshot": "https://capure.github.io/timetable-themes/screenshots/firewatch.png"
+    },
+    {
+      "name": "Hyperspace",
+      "author": "Capure",
+      "url": "https://raw.githubusercontent.com/Capure/timetable-themes/main/hyperspace.css",
+      "screenshot": "https://capure.github.io/timetable-themes/screenshots/hyperspace.png"
+    },
+    {
+      "name": "Peppa",
+      "author": "Capure",
+      "url": "https://raw.githubusercontent.com/Capure/timetable-themes/main/peppa.css",
+      "screenshot": "https://capure.github.io/timetable-themes/screenshots/peppa.png"
+    },
+    {
+      "name": "Pride",
+      "author": "Capure",
+      "url": "https://raw.githubusercontent.com/Capure/timetable-themes/main/pride.css",
+      "screenshot": "https://capure.github.io/timetable-themes/screenshots/pride.png"
+    },
+    {
+      "name": "Pride 2",
+      "author": "Luke2k04",
+      "url": "https://raw.githubusercontent.com/Capure/timetable-themes/main/pride2.css",
+      "screenshot": "https://capure.github.io/timetable-themes/screenshots/pride2.png"
+    }
+  ]
+}
