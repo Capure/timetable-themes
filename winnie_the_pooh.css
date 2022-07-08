@@ -1,0 +1,9 @@
+@import url("https://capure.github.io/timetable-themes/core.css");
+
+:root {
+  --bg-url: linear-gradient(#0004, #0004),
+    url("https://raw.githubusercontent.com/Capure/timetable-themes/main/bg/winnie_the_pooh.gif");
+  --theme-bg-color: rgba(0, 0, 0, 0.3);
+  --theme-blur: 6px;
+  --theme-active-lesson-color: rgba(231, 139, 0, 0.3);
+}
